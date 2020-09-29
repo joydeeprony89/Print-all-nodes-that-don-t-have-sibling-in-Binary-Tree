@@ -57,6 +57,7 @@ namespace Print_all_nodes_that_don_t_have_sibling_in_Binary_Tree
                 Console.WriteLine(root.right.value);
                 PrintSingleChild(root.right);
             }
+
         }
     }
 }
